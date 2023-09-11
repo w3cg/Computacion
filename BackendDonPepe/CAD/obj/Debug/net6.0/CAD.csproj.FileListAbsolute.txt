@@ -1,0 +1,15 @@
+E:\Proyectos\CursoComputacion\BackendDonPepe\CAD\bin\Debug\net6.0\CAD.deps.json
+E:\Proyectos\CursoComputacion\BackendDonPepe\CAD\bin\Debug\net6.0\CAD.dll
+E:\Proyectos\CursoComputacion\BackendDonPepe\CAD\bin\Debug\net6.0\CAD.pdb
+E:\Proyectos\CursoComputacion\BackendDonPepe\CAD\bin\Debug\net6.0\CEN.dll
+E:\Proyectos\CursoComputacion\BackendDonPepe\CAD\bin\Debug\net6.0\CEN.pdb
+E:\Proyectos\CursoComputacion\BackendDonPepe\CAD\obj\Debug\net6.0\CAD.csproj.AssemblyReference.cache
+E:\Proyectos\CursoComputacion\BackendDonPepe\CAD\obj\Debug\net6.0\CAD.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyectos\CursoComputacion\BackendDonPepe\CAD\obj\Debug\net6.0\CAD.AssemblyInfoInputs.cache
+E:\Proyectos\CursoComputacion\BackendDonPepe\CAD\obj\Debug\net6.0\CAD.AssemblyInfo.cs
+E:\Proyectos\CursoComputacion\BackendDonPepe\CAD\obj\Debug\net6.0\CAD.csproj.CoreCompileInputs.cache
+E:\Proyectos\CursoComputacion\BackendDonPepe\CAD\obj\Debug\net6.0\CAD.csproj.CopyComplete
+E:\Proyectos\CursoComputacion\BackendDonPepe\CAD\obj\Debug\net6.0\CAD.dll
+E:\Proyectos\CursoComputacion\BackendDonPepe\CAD\obj\Debug\net6.0\refint\CAD.dll
+E:\Proyectos\CursoComputacion\BackendDonPepe\CAD\obj\Debug\net6.0\CAD.pdb
+E:\Proyectos\CursoComputacion\BackendDonPepe\CAD\obj\Debug\net6.0\ref\CAD.dll

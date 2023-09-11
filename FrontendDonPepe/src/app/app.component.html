@@ -1,0 +1,97 @@
+<div class="container my-5">
+  <div class="row">
+    <h2 class="col">
+      Listado de categorias
+    </h2>
+  </div>
+  <div class="row">
+    <table class="table">
+      <thead>
+        <tr>
+          <th scope="col">#</th>
+          <th scope="col">Id Categoria</th>
+          <th scope="col">Codigo</th>
+          <th scope="col">Nombre</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let item of data; let i = index">
+          <th scope="row">{{i + 1}}</th>
+          <td>{{item.idCategoria}}</td>
+          <td>{{item.codigo}}</td>
+          <td>{{item.nombre}}</td>
+        </tr>
+      </tbody>
+      <p>Cantidad Resultados: 1 - {{response.cuerpo.totalResultados}}</p>
+      <p>Pagina: {{response.cuerpo.pagina}}</p>
+      <p>Cantidad por pagina: {{response.cuerpo.tamanio}}</p>
+    </table>
+  </div>
+</div>
+
+<hr>
+
+<div class="container my-5">
+  <div class="card my-3">
+    <div class="card-header">
+      <h2>Agregar Categoria</h2>
+    </div>
+    <div class="card-body">
+      <form [formGroup]="frmCategoria!" (ngSubmit)="AgregarCategoria()">
+        <div class="mb-3">
+          <label for="cod" class="form-label">Codigo: </label>
+          <input type="text" class="form-control" id="cod" formControlName="cod" placeholder="Codigo">
+        </div>
+        <div class="mb-3">
+          <label for="nom" class="form-label">Nombre de categoria</label>
+          <input type="text" class="form-control" id="nom" formControlName="nom" placeholder="Nombre">
+        </div>
+        <div class="mb-3">
+          <button type="submit" value="Agregar" class="btn btn-primary">Agregar Categoria</button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <div class="card my-3">
+    <div class="card-header">
+      <h2>Editar Categoria</h2>
+    </div>
+    <div class="card-body">
+
+      <form [formGroup]="frmEditarCategoria!" (ngSubmit)="EditarCategoria()">
+        <div class="mb-3">
+          <label for="id" class="form-label">Id: </label>
+          <input type="number" class="form-control" id="id" formControlName="idEdit" placeholder="Id">
+        </div>
+        <div class="mb-3">
+          <label for="nom" class="form-label">Nombre de categoria</label>
+          <input type="text" class="form-control" id="nom" formControlName="nomEdit" placeholder="Nombre">
+        </div>
+        <div class="mb-3">
+          <button type="submit" value="Agregar" class="btn btn-warning">Editar Categoria</button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <div class="card my-3">
+    <div class="card-header">
+      <h2>Eliminar Categoria</h2>
+    </div>
+    <div class="card-body">
+
+      <form [formGroup]="frmEliminarCategoria!" (ngSubmit)="EliminarCategoria()">
+        <div class="mb-3">
+          <label for="id" class="form-label">Id: </label>
+          <input type="number" class="form-control" id="id" formControlName="idEli" placeholder="Id">
+        </div>
+        <div class="mb-3">
+          <button type="submit" value="Agregar" class="btn btn-danger">Eliminar Categoria</button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+
+</div>

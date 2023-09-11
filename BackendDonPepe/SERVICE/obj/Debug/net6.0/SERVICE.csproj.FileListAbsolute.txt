@@ -1,0 +1,11 @@
+E:\Proyectos\CursoComputacion\BackendDonPepe\SERVICE\bin\Debug\net6.0\SERVICE.deps.json
+E:\Proyectos\CursoComputacion\BackendDonPepe\SERVICE\bin\Debug\net6.0\SERVICE.dll
+E:\Proyectos\CursoComputacion\BackendDonPepe\SERVICE\bin\Debug\net6.0\SERVICE.pdb
+E:\Proyectos\CursoComputacion\BackendDonPepe\SERVICE\obj\Debug\net6.0\SERVICE.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyectos\CursoComputacion\BackendDonPepe\SERVICE\obj\Debug\net6.0\SERVICE.AssemblyInfoInputs.cache
+E:\Proyectos\CursoComputacion\BackendDonPepe\SERVICE\obj\Debug\net6.0\SERVICE.AssemblyInfo.cs
+E:\Proyectos\CursoComputacion\BackendDonPepe\SERVICE\obj\Debug\net6.0\SERVICE.csproj.CoreCompileInputs.cache
+E:\Proyectos\CursoComputacion\BackendDonPepe\SERVICE\obj\Debug\net6.0\SERVICE.dll
+E:\Proyectos\CursoComputacion\BackendDonPepe\SERVICE\obj\Debug\net6.0\refint\SERVICE.dll
+E:\Proyectos\CursoComputacion\BackendDonPepe\SERVICE\obj\Debug\net6.0\SERVICE.pdb
+E:\Proyectos\CursoComputacion\BackendDonPepe\SERVICE\obj\Debug\net6.0\ref\SERVICE.dll

@@ -1,0 +1,12 @@
+E:\Proyectos\CursoComputacion\BackendDonPepe\CEN\bin\Debug\net6.0\CEN.deps.json
+E:\Proyectos\CursoComputacion\BackendDonPepe\CEN\bin\Debug\net6.0\CEN.dll
+E:\Proyectos\CursoComputacion\BackendDonPepe\CEN\bin\Debug\net6.0\CEN.pdb
+E:\Proyectos\CursoComputacion\BackendDonPepe\CEN\obj\Debug\net6.0\CEN.csproj.AssemblyReference.cache
+E:\Proyectos\CursoComputacion\BackendDonPepe\CEN\obj\Debug\net6.0\CEN.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyectos\CursoComputacion\BackendDonPepe\CEN\obj\Debug\net6.0\CEN.AssemblyInfoInputs.cache
+E:\Proyectos\CursoComputacion\BackendDonPepe\CEN\obj\Debug\net6.0\CEN.AssemblyInfo.cs
+E:\Proyectos\CursoComputacion\BackendDonPepe\CEN\obj\Debug\net6.0\CEN.csproj.CoreCompileInputs.cache
+E:\Proyectos\CursoComputacion\BackendDonPepe\CEN\obj\Debug\net6.0\CEN.dll
+E:\Proyectos\CursoComputacion\BackendDonPepe\CEN\obj\Debug\net6.0\refint\CEN.dll
+E:\Proyectos\CursoComputacion\BackendDonPepe\CEN\obj\Debug\net6.0\CEN.pdb
+E:\Proyectos\CursoComputacion\BackendDonPepe\CEN\obj\Debug\net6.0\ref\CEN.dll
