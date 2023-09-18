@@ -51,5 +51,48 @@ namespace API.Controllers
                 return BadRequest(error);
             }
         }
+
+        [HttpPut("editarCategoria")]
+        public IActionResult EditarCategorias([FromBody] UpdateCategoriaCEN Crequest)
+        {
+            try
+            {
+                ClnCategoria cln = new();
+                var request = cln.EditarCategoria(Crequest);
+                return Ok(request);
+            }
+            catch (Exception ex)
+            {
+                CenControlError error = new()
+                {
+                    Tipo = "R",
+                    Codigo = "EX",
+                    Mensaje = ex.Message
+                };
+                return BadRequest(error);
+            }
+        }
+
+
+        [HttpDelete("eliminarCategoria")]
+        public IActionResult EliminarCategorias([FromBody] DeleteCategoriaCEN Crequest)
+        {
+            try
+            {
+                ClnCategoria cln = new();
+                var request = cln.EliminarCategoria(Crequest);
+                return Ok(request);
+            }
+            catch (Exception ex)
+            {
+                CenControlError error = new()
+                {
+                    Tipo = "R",
+                    Codigo = "EX",
+                    Mensaje = ex.Message
+                };
+                return BadRequest(error);
+            }
+        }
     }
 }

@@ -10,3 +10,15 @@ E:\Proyectos\CursoComputacion\BackendDonPepe\CEN\obj\Debug\net6.0\CEN.dll
 E:\Proyectos\CursoComputacion\BackendDonPepe\CEN\obj\Debug\net6.0\refint\CEN.dll
 E:\Proyectos\CursoComputacion\BackendDonPepe\CEN\obj\Debug\net6.0\CEN.pdb
 E:\Proyectos\CursoComputacion\BackendDonPepe\CEN\obj\Debug\net6.0\ref\CEN.dll
+C:\Users\walter\Desktop\BackendDonPepe-main\CEN\bin\Debug\net6.0\CEN.deps.json
+C:\Users\walter\Desktop\BackendDonPepe-main\CEN\bin\Debug\net6.0\CEN.dll
+C:\Users\walter\Desktop\BackendDonPepe-main\CEN\bin\Debug\net6.0\CEN.pdb
+C:\Users\walter\Desktop\BackendDonPepe-main\CEN\obj\Debug\net6.0\CEN.csproj.AssemblyReference.cache
+C:\Users\walter\Desktop\BackendDonPepe-main\CEN\obj\Debug\net6.0\CEN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walter\Desktop\BackendDonPepe-main\CEN\obj\Debug\net6.0\CEN.AssemblyInfoInputs.cache
+C:\Users\walter\Desktop\BackendDonPepe-main\CEN\obj\Debug\net6.0\CEN.AssemblyInfo.cs
+C:\Users\walter\Desktop\BackendDonPepe-main\CEN\obj\Debug\net6.0\CEN.csproj.CoreCompileInputs.cache
+C:\Users\walter\Desktop\BackendDonPepe-main\CEN\obj\Debug\net6.0\CEN.dll
+C:\Users\walter\Desktop\BackendDonPepe-main\CEN\obj\Debug\net6.0\refint\CEN.dll
+C:\Users\walter\Desktop\BackendDonPepe-main\CEN\obj\Debug\net6.0\CEN.pdb
+C:\Users\walter\Desktop\BackendDonPepe-main\CEN\obj\Debug\net6.0\ref\CEN.dll

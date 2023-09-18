@@ -952,19 +952,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\alfie\\.nuget\\packages\\": {}
+    "C:\\Users\\walter\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Proyectos\\CursoComputacion\\BackendDonPepe\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\walter\\Desktop\\BackendDonPepe-main\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "E:\\Proyectos\\CursoComputacion\\BackendDonPepe\\API\\API.csproj",
-      "packagesPath": "C:\\Users\\alfie\\.nuget\\packages\\",
-      "outputPath": "E:\\Proyectos\\CursoComputacion\\BackendDonPepe\\API\\obj\\",
+      "projectPath": "C:\\Users\\walter\\Desktop\\BackendDonPepe-main\\API\\API.csproj",
+      "packagesPath": "C:\\Users\\walter\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\walter\\Desktop\\BackendDonPepe-main\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\alfie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\walter\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -978,11 +978,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\Proyectos\\CursoComputacion\\BackendDonPepe\\CEN\\CEN.csproj": {
-              "projectPath": "E:\\Proyectos\\CursoComputacion\\BackendDonPepe\\CEN\\CEN.csproj"
+            "C:\\Users\\walter\\Desktop\\BackendDonPepe-main\\CEN\\CEN.csproj": {
+              "projectPath": "C:\\Users\\walter\\Desktop\\BackendDonPepe-main\\CEN\\CEN.csproj"
             },
-            "E:\\Proyectos\\CursoComputacion\\BackendDonPepe\\CLN\\CLN.csproj": {
-              "projectPath": "E:\\Proyectos\\CursoComputacion\\BackendDonPepe\\CLN\\CLN.csproj"
+            "C:\\Users\\walter\\Desktop\\BackendDonPepe-main\\CLN\\CLN.csproj": {
+              "projectPath": "C:\\Users\\walter\\Desktop\\BackendDonPepe-main\\CLN\\CLN.csproj"
             }
           }
         }

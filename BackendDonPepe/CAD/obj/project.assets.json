@@ -488,19 +488,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\alfie\\.nuget\\packages\\": {}
+    "C:\\Users\\walter\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Proyectos\\CursoComputacion\\BackendDonPepe\\CAD\\CAD.csproj",
+      "projectUniqueName": "C:\\Users\\walter\\Desktop\\BackendDonPepe-main\\CAD\\CAD.csproj",
       "projectName": "CAD",
-      "projectPath": "E:\\Proyectos\\CursoComputacion\\BackendDonPepe\\CAD\\CAD.csproj",
-      "packagesPath": "C:\\Users\\alfie\\.nuget\\packages\\",
-      "outputPath": "E:\\Proyectos\\CursoComputacion\\BackendDonPepe\\CAD\\obj\\",
+      "projectPath": "C:\\Users\\walter\\Desktop\\BackendDonPepe-main\\CAD\\CAD.csproj",
+      "packagesPath": "C:\\Users\\walter\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\walter\\Desktop\\BackendDonPepe-main\\CAD\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\alfie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\walter\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -514,8 +514,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\Proyectos\\CursoComputacion\\BackendDonPepe\\CEN\\CEN.csproj": {
-              "projectPath": "E:\\Proyectos\\CursoComputacion\\BackendDonPepe\\CEN\\CEN.csproj"
+            "C:\\Users\\walter\\Desktop\\BackendDonPepe-main\\CEN\\CEN.csproj": {
+              "projectPath": "C:\\Users\\walter\\Desktop\\BackendDonPepe-main\\CEN\\CEN.csproj"
             }
           }
         }

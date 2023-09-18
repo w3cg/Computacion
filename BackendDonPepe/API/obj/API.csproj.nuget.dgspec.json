@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Proyectos\\CursoComputacion\\BackendDonPepe\\API\\API.csproj": {}
+    "C:\\Users\\walter\\Desktop\\BackendDonPepe-main\\API\\API.csproj": {}
   },
   "projects": {
-    "E:\\Proyectos\\CursoComputacion\\BackendDonPepe\\API\\API.csproj": {
+    "C:\\Users\\walter\\Desktop\\BackendDonPepe-main\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Proyectos\\CursoComputacion\\BackendDonPepe\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\walter\\Desktop\\BackendDonPepe-main\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "E:\\Proyectos\\CursoComputacion\\BackendDonPepe\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\alfie\\.nuget\\packages\\",
-        "outputPath": "E:\\Proyectos\\CursoComputacion\\BackendDonPepe\\API\\obj\\",
+        "projectPath": "C:\\Users\\walter\\Desktop\\BackendDonPepe-main\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\walter\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\walter\\Desktop\\BackendDonPepe-main\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\alfie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\walter\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,11 +28,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\Proyectos\\CursoComputacion\\BackendDonPepe\\CEN\\CEN.csproj": {
-                "projectPath": "E:\\Proyectos\\CursoComputacion\\BackendDonPepe\\CEN\\CEN.csproj"
+              "C:\\Users\\walter\\Desktop\\BackendDonPepe-main\\CEN\\CEN.csproj": {
+                "projectPath": "C:\\Users\\walter\\Desktop\\BackendDonPepe-main\\CEN\\CEN.csproj"
               },
-              "E:\\Proyectos\\CursoComputacion\\BackendDonPepe\\CLN\\CLN.csproj": {
-                "projectPath": "E:\\Proyectos\\CursoComputacion\\BackendDonPepe\\CLN\\CLN.csproj"
+              "C:\\Users\\walter\\Desktop\\BackendDonPepe-main\\CLN\\CLN.csproj": {
+                "projectPath": "C:\\Users\\walter\\Desktop\\BackendDonPepe-main\\CLN\\CLN.csproj"
               }
             }
           }
@@ -75,17 +75,17 @@
         }
       }
     },
-    "E:\\Proyectos\\CursoComputacion\\BackendDonPepe\\CAD\\CAD.csproj": {
+    "C:\\Users\\walter\\Desktop\\BackendDonPepe-main\\CAD\\CAD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Proyectos\\CursoComputacion\\BackendDonPepe\\CAD\\CAD.csproj",
+        "projectUniqueName": "C:\\Users\\walter\\Desktop\\BackendDonPepe-main\\CAD\\CAD.csproj",
         "projectName": "CAD",
-        "projectPath": "E:\\Proyectos\\CursoComputacion\\BackendDonPepe\\CAD\\CAD.csproj",
-        "packagesPath": "C:\\Users\\alfie\\.nuget\\packages\\",
-        "outputPath": "E:\\Proyectos\\CursoComputacion\\BackendDonPepe\\CAD\\obj\\",
+        "projectPath": "C:\\Users\\walter\\Desktop\\BackendDonPepe-main\\CAD\\CAD.csproj",
+        "packagesPath": "C:\\Users\\walter\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\walter\\Desktop\\BackendDonPepe-main\\CAD\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\alfie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\walter\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -99,8 +99,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\Proyectos\\CursoComputacion\\BackendDonPepe\\CEN\\CEN.csproj": {
-                "projectPath": "E:\\Proyectos\\CursoComputacion\\BackendDonPepe\\CEN\\CEN.csproj"
+              "C:\\Users\\walter\\Desktop\\BackendDonPepe-main\\CEN\\CEN.csproj": {
+                "projectPath": "C:\\Users\\walter\\Desktop\\BackendDonPepe-main\\CEN\\CEN.csproj"
               }
             }
           }
@@ -134,17 +134,17 @@
         }
       }
     },
-    "E:\\Proyectos\\CursoComputacion\\BackendDonPepe\\CEN\\CEN.csproj": {
+    "C:\\Users\\walter\\Desktop\\BackendDonPepe-main\\CEN\\CEN.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Proyectos\\CursoComputacion\\BackendDonPepe\\CEN\\CEN.csproj",
+        "projectUniqueName": "C:\\Users\\walter\\Desktop\\BackendDonPepe-main\\CEN\\CEN.csproj",
         "projectName": "CEN",
-        "projectPath": "E:\\Proyectos\\CursoComputacion\\BackendDonPepe\\CEN\\CEN.csproj",
-        "packagesPath": "C:\\Users\\alfie\\.nuget\\packages\\",
-        "outputPath": "E:\\Proyectos\\CursoComputacion\\BackendDonPepe\\CEN\\obj\\",
+        "projectPath": "C:\\Users\\walter\\Desktop\\BackendDonPepe-main\\CEN\\CEN.csproj",
+        "packagesPath": "C:\\Users\\walter\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\walter\\Desktop\\BackendDonPepe-main\\CEN\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\alfie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\walter\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -195,17 +195,17 @@
         }
       }
     },
-    "E:\\Proyectos\\CursoComputacion\\BackendDonPepe\\CLN\\CLN.csproj": {
+    "C:\\Users\\walter\\Desktop\\BackendDonPepe-main\\CLN\\CLN.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Proyectos\\CursoComputacion\\BackendDonPepe\\CLN\\CLN.csproj",
+        "projectUniqueName": "C:\\Users\\walter\\Desktop\\BackendDonPepe-main\\CLN\\CLN.csproj",
         "projectName": "CLN",
-        "projectPath": "E:\\Proyectos\\CursoComputacion\\BackendDonPepe\\CLN\\CLN.csproj",
-        "packagesPath": "C:\\Users\\alfie\\.nuget\\packages\\",
-        "outputPath": "E:\\Proyectos\\CursoComputacion\\BackendDonPepe\\CLN\\obj\\",
+        "projectPath": "C:\\Users\\walter\\Desktop\\BackendDonPepe-main\\CLN\\CLN.csproj",
+        "packagesPath": "C:\\Users\\walter\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\walter\\Desktop\\BackendDonPepe-main\\CLN\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\alfie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\walter\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -219,11 +219,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\Proyectos\\CursoComputacion\\BackendDonPepe\\CAD\\CAD.csproj": {
-                "projectPath": "E:\\Proyectos\\CursoComputacion\\BackendDonPepe\\CAD\\CAD.csproj"
+              "C:\\Users\\walter\\Desktop\\BackendDonPepe-main\\CAD\\CAD.csproj": {
+                "projectPath": "C:\\Users\\walter\\Desktop\\BackendDonPepe-main\\CAD\\CAD.csproj"
               },
-              "E:\\Proyectos\\CursoComputacion\\BackendDonPepe\\CEN\\CEN.csproj": {
-                "projectPath": "E:\\Proyectos\\CursoComputacion\\BackendDonPepe\\CEN\\CEN.csproj"
+              "C:\\Users\\walter\\Desktop\\BackendDonPepe-main\\CEN\\CEN.csproj": {
+                "projectPath": "C:\\Users\\walter\\Desktop\\BackendDonPepe-main\\CEN\\CEN.csproj"
               }
             }
           }

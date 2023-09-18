@@ -100,7 +100,75 @@ namespace CAD
                     _sqlConexion.Close();
                 }
             }
-            private int ContarCategorias(CategoriaRequest request)
+        public CenControlError EditarCategoria(UpdateCategoriaCEN request)
+        {
+            CenControlError response = new();
+            SqlConnection _sqlConexion = new SqlConnection(Constants.Cadena_conexion);
+            SqlCommand cmd;
+            try
+            {
+                _sqlConexion.Open();
+                cmd = new SqlCommand("sp_IUDCategoria", _sqlConexion);
+                cmd.Parameters.AddWithValue("@pId", request.idCategoria);
+                cmd.Parameters.AddWithValue("@pNombre", request.nombre);
+                cmd.Parameters.AddWithValue("@pAccion", "U");
+                cmd.CommandType = CommandType.StoredProcedure;
+                using (var reader = cmd.ExecuteReader())
+                {
+                    while (reader.Read())
+                    {
+                        response.Tipo = "U";
+                        response.Codigo = reader["CODIGO"].ToString();
+                        response.Mensaje = reader["MENSAJE"].ToString();
+                    }
+                }
+                //"C" - Creacion, "R" - Lectura, "U" - Modificacion, "D" - Eliminacion
+                return response;
+            }
+            catch (Exception ex)
+            {
+                throw;
+            }
+            finally
+            {
+                _sqlConexion.Close();
+            }
+        }
+        public CenControlError EliminarCategoria(DeleteCategoriaCEN request)
+        {
+            CenControlError response = new();
+            SqlConnection _sqlConexion = new SqlConnection(Constants.Cadena_conexion);
+            SqlCommand cmd;
+            try
+            {
+                _sqlConexion.Open();
+                cmd = new SqlCommand("sp_IUDCategoria", _sqlConexion);
+                cmd.Parameters.AddWithValue("@pId", request.idCategoria);
+                cmd.Parameters.AddWithValue("@pAccion", "D");
+                cmd.CommandType = CommandType.StoredProcedure;
+                using (var reader = cmd.ExecuteReader())
+                {
+                    while (reader.Read())
+                    {
+                        response.Tipo = "D";
+                        response.Codigo = reader["CODIGO"].ToString();
+                        response.Mensaje = reader["MENSAJE"].ToString();
+                    }
+                }
+                //"C" - Creacion, "R" - Lectura, "U" - Modificacion, "D" - Eliminacion
+                return response;
+            }
+            catch (Exception ex)
+            {
+                throw;
+            }
+            finally
+            {
+                _sqlConexion.Close();
+            }
+        }
+
+        private int ContarCategorias(CategoriaRequest request)
         {
             int total = 0;
             SqlConnection _sqlConexion = new SqlConnection(Constants.Cadena_conexion);
